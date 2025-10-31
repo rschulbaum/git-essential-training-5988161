@@ -1,3 +1,3 @@
 This is content
 
-Thi is an extra line
+This is an extra line
